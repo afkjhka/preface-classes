@@ -3,6 +3,14 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
+        <entry key="$PROJECT_DIR$/.idea/untitled.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkName" value="Python 3.10 (afkjh)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/OneDrive/Desktop/uhjipyug8o67tg/.idea/uhjipyug8o67tg.iml">
           <value>
             <JupyterConnectionParameters>
